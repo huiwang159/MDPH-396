@@ -10,4 +10,4 @@ The number of occurrence of several POS were statistically different in the fict
 ## Conclusion
 Determining if a report is complete requires domain knowledge outside the scope of statistical NLP. However, NLP can classify incidents by process step with fair performance, and demonstrates the potential to classify incidents by other data elements of the Canadian National System for Incident Reporting - Radiation Treatment (NSIR-RT).
 
-![][Safer Radiotherapy.png]
+[][Safer Radiotherapy.png]
